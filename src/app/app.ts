@@ -55,7 +55,7 @@ import {Home} from './home/home';
     </main>
 
     <footer>
-      WebPack Angular 2 Starter by <a [href]="url">@AngularClass</a>
+      WebPack Angular 2 Starter by <a [href]="url" target="_blank">@AngularClass</a>
       <div>
         <img [src]="angularclassLogo" width="10%">
       </div>
